@@ -1,0 +1,2 @@
+C:\Users\200537\Desktop\D\ACT7_COURSE_ADAM6TI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\200537\Desktop\D\ACT7_COURSE_ADAM6TI\obj\Debug\net6.0-windows\ACT7_COURSE_ADAM6TI_MarkupCompile.cache
